@@ -8,6 +8,7 @@
 
   <title>Komunitas SMIT</title>
   {{--  icon logo  --}}
+  <link rel="icon" type="image/png" href="{{ asset('img/logo.png') }}">
 
   <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,600,700,300&subset=latin" rel="stylesheet" type="text/css">
   <link href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" rel="stylesheet" type="text/css">
