@@ -12,8 +12,8 @@ Daftar Modul :
 Projek ini dibangun dengan berikut : 
 1. Laravel 5.5
 2. Template pixeladmin beserta library nya
-3. Template material kita beserta library nya
+3. Template material-kit beserta library nya
 4. Hasil ngoprek sendiri
 
-Salam,
+Salam
 Komunitas SMIT - 2018
