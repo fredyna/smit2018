@@ -15,5 +15,5 @@ Projek ini dibangun dengan berikut :
 3. Template material-kit beserta library nya
 4. Hasil ngoprek sendiri
 
-Salam
+Salam, <br>
 Komunitas SMIT - 2018
